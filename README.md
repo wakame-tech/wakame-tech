@@ -1,16 +1,16 @@
-### Hi there 👋
+# wakame-tech
+![](https://img.shields.io/badge/status-living-green.svg)
+![](https://img.shields.io/badge/進路-unknown-inactive.svg)
+![](https://img.shields.io/badge/version-21.0.0-green.svg)
 
-<!--
-**wakame-tech/wakame-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Portfolio
+portfolio deployed here ✨
+<https://wakame.tech>
 
-Here are some ideas to get you started:
+## Interests
+- 🌐 Web
+- 🔒 Cryptgraphy
+- 📈 NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+nothing
