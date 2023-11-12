@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="231.77954681409122" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="231.77954681409122" y="0" width="96.21715468549938" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="327.9967014995906" y="0" width="50.19252695370048" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="378.1892284532911" y="0" width="47.69783515824548" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="425.8870636115365" y="0" width="18.036369692069353" height="8" fill="#4b0079"/>
-                    <rect mask="url(#languages-bar)" x="443.9234333036059" y="0" width="16.07656669639407" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="228.6312285656647" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="228.6312285656647" y="0" width="94.91021355082279" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="323.54144211648753" y="0" width="55.759042047321245" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="379.3004841638088" y="0" width="47.04994380241506" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="426.35042796622383" y="0" width="17.79137727312026" height="8" fill="#4b0079"/>
+                    <rect mask="url(#languages-bar)" x="444.1418052393441" y="0" width="15.858194760655927" height="8" fill="#F05138"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -39,7 +39,7 @@
                             </div>
                             <small>
                                 <div>689 kB</div>
-                                <div>50.39%</div>
+                                <div>49.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -50,8 +50,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>149 kB</div>
-                                <div>10.91%</div>
+                                <div>168 kB</div>
+                                <div>12.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>53.6 kB</div>
-                                <div>3.92%</div>
+                                <div>3.87%</div>
                             </small>
                         </div>
                     </section>
@@ -77,7 +77,7 @@
                             </div>
                             <small>
                                 <div>286 kB</div>
-                                <div>20.92%</div>
+                                <div>20.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -89,7 +89,7 @@
                             </div>
                             <small>
                                 <div>141 kB</div>
-                                <div>10.37%</div>
+                                <div>10.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -101,7 +101,7 @@
                             </div>
                             <small>
                                 <div>47.8 kB</div>
-                                <div>3.49%</div>
+                                <div>3.45%</div>
                             </small>
                         </div>
                     </section>
