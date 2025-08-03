@@ -21,25 +21,25 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.22166539202087" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="174.22166539202087" y="0" width="121.0358835217119" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="295.2575489137327" y="0" width="71.89671141378078" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="367.1542603275135" y="0" width="35.417369185926816" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="402.57162951344026" y="0" width="29.193020174907396" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="431.7646496883477" y="0" width="28.235350311652276" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.140283131285" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="195.140283131285" y="0" width="138.6645890130519" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="333.8048721443369" y="0" width="57.223238666380595" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="391.0281108107175" y="0" width="23.26413307703501" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="414.2922438877525" y="0" width="23.23498708093891" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="437.5272309686914" y="0" width="22.472769031308566" height="8" fill="#6e4a7e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Jupyter Notebook
+                                Rust
                             </div>
                             <small>
-                                <div>689 kB</div>
-                                <div>37.87%</div>
+                                <div>970 kB</div>
+                                <div>42.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                             </div>
                             <small>
                                 <div>284 kB</div>
-                                <div>15.63%</div>
+                                <div>12.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>115 kB</div>
-                                <div>6.35%</div>
+                                <div>5.05%</div>
                             </small>
                         </div>
                     </section>
@@ -71,13 +71,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Rust
+                                Jupyter Notebook
                             </div>
                             <small>
-                                <div>479 kB</div>
-                                <div>26.31%</div>
+                                <div>689 kB</div>
+                                <div>30.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -88,8 +88,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>140 kB</div>
-                                <div>7.7%</div>
+                                <div>115 kB</div>
+                                <div>5.06%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -101,7 +101,7 @@
                             </div>
                             <small>
                                 <div>111 kB</div>
-                                <div>6.14%</div>
+                                <div>4.89%</div>
                             </small>
                         </div>
                     </section>
